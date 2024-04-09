@@ -1,0 +1,29 @@
+
+.content{
+    font-size:20px;
+    margin-top:0%;
+    text-align: center;
+    font-size:30px;
+    background-color: rgb(117, 208, 211);
+    padding:50px;
+}
+.link{
+    background-color:rgb(125, 167, 167);
+    height:200px;
+    padding-top:50px; 
+}
+a{
+    color:black;
+    display: inline;
+    text-decoration: none;
+}
+.top{
+    background-color: rgb(125, 167, 167);
+    height:200px;
+    padding-top:5%;
+    text-align: center;
+    font-size:50px;
+}
+h1{
+font-size:100px;
+}
